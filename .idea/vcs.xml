@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/memes_template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/social" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/video_downloader" vcs="Git" />
+  </component>
+</project>
